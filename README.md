@@ -21,3 +21,6 @@ Updations:
 
 
 Database file is avalible inside database folder
+
+
+Support : arifsiyad@gmail.com
