@@ -20,7 +20,5 @@ Updations:
 11. Added Multiple Clinic Support.
 
 
-Database file is avalible inside database folder
 
 
-Support : arifsiyad@gmail.com
